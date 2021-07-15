@@ -1,27 +1,6 @@
 👋
 Hello! My name is Yusef Aslam.
-I like coding when I'm free or bored. 
-Check out some of my repos if you want to.
 
-I like cityscapes
-
-```
-                                  _._
-                               .-~ | ~-.
-                               |   |   |
-                               |  _:_  |                    .-:~--.._
-                             .-"~~ | ~~"-.                .~  |      |
-            _.-~:.           |     |     |                |   |      |
-           |    | `.         |     |     |                |   |      |
-  _..--~:-.|    |  |         |     |     |                |   |      |
- |      |  ~.   |  |         |  __.:.__  |                |   |      |
- |      |   |   |  |       .-"~~   |   ~~"-.              |   |      |
- |      |   |  _|.--~:-.   |       |       |         .:~-.|   |      |
- |      Y   | |      |  ~. |       |   _.-:~--._   .' |   |   |      |
- |      U   | |      |   | |       |  |   |     |  |  |   |   |      |
- |      S   | |      |   | |       |  |   |     |  |  |   |   |      |
- |      E   | |      |   | |       |  |   |     |  |  |   |   |      |
- |      F   | |      |   | |       |  |   |     |  |  |   |   |      |
- |      Z   | |      |   | |       |  |   |     |  |  |   |   |      |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
+### Edit: Moved over to GitLab
+I have moved over to GitLab from this point on due to things that GitHub did which I do not like... 
+My GitLab repo is at: https://gitlab.com/yusi-01
